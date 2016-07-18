@@ -28,8 +28,9 @@
 .fromID-3862893 .msg .from .un:after,
 .id-3862893 .msg .from .un:after,
 .fromID-6603548 .msg .from .un:after,
-.id-6603548 .msg .from .un:after {
-    content: " "url("https://mitchdev.net/pdj/rdj.png") !important;
+.id-6603548 .msg .from .un:after
+/*#chat :not(.rsshit).id-3798150 .from:before*/ {
+    content: " "url("https://chilloutmusica.github.io/cm/assets/icons/rdj.png") !important;
     top: 3px;
     position: relative;
 }
@@ -39,5 +40,5 @@
 #chat .id-4538423 .un,
 #chat .fromID-3806818 .un,
 #chat .id-3806818 .un {
-    color: #42A5DC!important;
+    color: #fff!important;
 }

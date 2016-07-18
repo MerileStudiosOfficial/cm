@@ -1,6 +1,6 @@
 {
 	"room": "Chillout",
-	"css": "https://rawgit.com/PossiblyKris/test/master/cm.css",
+	"css": "https://chilloutmusica.github.io/cm/main.css",
 	"rules": {
 	    "allowAutorespond": true,
 	    "allowAutowoot": true,
@@ -9,32 +9,31 @@
 	    "allowShowingMehs": false
 	},
 	"ccc": {
-	    "ambassador": "#89be6c !important",
-	    "bouncer": "#01e1ff",
-	    "cohost": "#FF3558",
-	    "rdj": "#89BE6C",
-	    "host": "#FF3558",
-	    "manager": "#0191ff",
 	    "admin": null,
+	    "ambassador": "#89be6c",
+	    "host": "#FF3558",
+	    "cohost": "#FF3558",
+	    "manager": "#0191ff",
+	    "bouncer": "#01e1ff",
+	    "rdj": "#89BE6C",
 	    "subscriber": null,
 	    "friend": null,
 	    "user": null
 	},
 	"images": {
-	    "background": "http://www.chilloutmusic.fm/img/Archive/p3/CM_BG7.jpg",
-	    "playback": "https://mitchdev.net/pdj/playback.png",
+	    "background": "https://chilloutmusica.github.io/cm/assets/background.jpg",
+	    "playback": "https://chilloutmusica.github.io/cm/assets/playback.png",
 	    "admin": null,
 	    "ambassador": null,
-	    "host": "https://mitchdev.net/pdj/host.png",
-	    "cohost": "https://mitchdev.net/pdj/host.png",
-	    "manager": "https://mitchdev.net/pdj/manager.png",
-	    "bouncer": "https://mitchdev.net/pdj/bouncer.png",
-	    "rdj": "https://mitchdev.net/pdj/rdj.png",
-	    "silversubscriber": null,
-	    "subscriber": null
+	    "host": "https://chilloutmusica.github.io/cm/assets/icons/host.png",
+	    "cohost": "https://chilloutmusica.github.io/cm/assets/icons/host.png",
+	    "manager": "https://chilloutmusica.github.io/cm/assets/icons/manager.png",
+	    "bouncer": "https://chilloutmusica.github.io/cm/assets/icons/bouncer.png",
+	    "rdj": "https://chilloutmusica.github.io/cm/assets/icons/rdj.png",
+	    "subscriber": null,
+	    "silversubscriber": null
 	},
 	"emotes": {
-		"attempt": "http://i.imgur.com/TUrADao.png",
-		"costanza": "http://i.imgur.com/StgJ3n9.png"
+		"costanza": "https://chilloutmusica.github.io/cm/assets/emotes/costanza.png"
 	}
 }

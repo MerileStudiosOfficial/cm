@@ -1,4 +1,6 @@
 /* CUSTOM RDJs */
+#chat .fromID-5462424 .un,
+#chat .id-5462424 .un,
 #chat .fromID-4036825 .un,
 #chat .id-4036825 .un,
 #chat .fromID-3424522 .un,
@@ -15,6 +17,8 @@
 #chat .id-6603548 .un {
     color: #89BE6C;
 }
+.fromID-5462424 .msg .from .un:after,
+.id-5462424 .msg .from .un:after,
 .fromID-4036825 .msg .from .un:after,
 .id-4036825 .msg .from .un:after,
 .fromID-3424522 .msg .from .un:after,

@@ -1,4 +1,8 @@
 /* CUSTOM RDJs */
+#chat .fromID-4774047 .un,
+#chat .id-4774047 .un,
+#chat .fromID-4627982 .un,
+#chat .id-4627982 .un,
 #chat .fromID-5005391 .un,
 #chat .id-5005391 .un,
 #chat .fromID-5462424 .un,
@@ -19,6 +23,10 @@
 #chat .id-6603548 .un {
     color: #89BE6C;
 }
+.fromID-4774047 .msg .from .un:after,
+.id-4774047 .msg .from .un:after,
+.fromID-4627982 .msg .from .un:after,
+.id-4627982 .msg .from .un:after,
 .fromID-5005391 .msg .from .un:after,
 .id-5005391 .msg .from .un:after,
 .fromID-5462424 .msg .from .un:after,

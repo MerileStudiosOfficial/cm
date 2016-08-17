@@ -214,3 +214,17 @@ body {
 .drag-media-box {
     background-color: #FF3558;
 }
+
+.un, .name, .text {
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: -webkit-gradient(linear,  left top,  right bottom, 
+        color-stop(0.00, red), 
+        color-stop(16%, orange),
+        color-stop(32%, yellow),
+        color-stop(48%, green),
+        color-stop(60%, blue),
+        color-stop(76%, indigo),
+        color-stop(1.00, violet));
+    text-shadow: 0 0 1px rgba(255, 255, 255, .15);
+}

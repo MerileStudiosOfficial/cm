@@ -1,15 +1,3 @@
-#chat-messages .fromID-15976460 .badge-box i,
-#chat-messages .id-15976460 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/assets/badges/poop.png);
-    background-size: cover;
-}
-
-#chat-messages .fromID-3893562 .badge-box i,
-#chat-messages .id-3893562 .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/assets/badges/poop.png);
-    background-size: cover;
-}
-
 #chat-messages .fromID-5329731 .badge-box i,
 #chat-messages .id-5329731 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/assets/badges/5329731.gif);
@@ -1612,6 +1600,14 @@
     background-size: cover;
 }
 
+#chat-messages .fromID-15976460 .badge-box i,
+#chat-messages .id-15976460 .badge-box i,
+#chat-messages .fromID-3893562 .badge-box i,
+#chat-messages .id-3893562 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/assets/badges/poop.png);
+    background-size: cover;
+}
+
 #chat-messages .fromID-5010887 .badge-box i,
 #chat-messages .id-5010887 .badge-box i,
 #chat-messages .fromID-5975194 .badge-box i,
@@ -1620,7 +1616,7 @@
     background-size: cover;
 }
 
-#chat-messages .badge-box i {
+#chat-messages div:not(.moderation) .badge-box i {
     width: 30px;
     height: 30px;
     top: 0;

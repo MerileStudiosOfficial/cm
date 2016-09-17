@@ -19,8 +19,8 @@
 */
 
 
-@import url("https://chilloutmusica.github.io/cm/users.css");
-@import url("https://chilloutmusica.github.io/cm/rdjs.css");
+@import url("https://chilloutmusica.github.io/cm/src/users.css");
+@import url("https://chilloutmusica.github.io/cm/src/rdjs.css");
 
 body {
     background-size: 100% auto !important;
@@ -28,7 +28,7 @@ body {
 }
 
 #room-bar .icon-room {
-    background: url(https://chilloutmusica.github.io/cm/assets/cm.png);
+    background: url(https://chilloutmusica.github.io/cm/src/images/cm.png);
 }
 
 #playback-container {

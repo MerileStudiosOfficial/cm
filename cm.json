@@ -1,6 +1,6 @@
 {
     "room": "Chillout",
-    "css": "https://chilloutmusica.github.io/cm/main.css",
+    "css": "https://chilloutmusica.github.io/cm/src/main.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -21,15 +21,15 @@
         "user": null
     },
     "images": {
-        "background": "https://chilloutmusica.github.io/cm/assets/background.jpg",
-        "playback": "https://chilloutmusica.github.io/cm/assets/playback.png",
+        "background": "https://chilloutmusica.github.io/cm/src/images/background.jpg",
+        "playback": "https://chilloutmusica.github.io/cm/src/images/playback.png",
         "admin": null,
         "ambassador": null,
-        "host": "https://chilloutmusica.github.io/cm/assets/icons/host.png",
-        "cohost": "https://chilloutmusica.github.io/cm/assets/icons/host.png",
-        "manager": "https://chilloutmusica.github.io/cm/assets/icons/manager.png",
-        "bouncer": "https://chilloutmusica.github.io/cm/assets/icons/bouncer.png",
-        "rdj": "https://chilloutmusica.github.io/cm/assets/icons/rdj.png",
+        "host": "https://chilloutmusica.github.io/cm/src/icons/host.png",
+        "cohost": "https://chilloutmusica.github.io/cm/src/icons/host.png",
+        "manager": "https://chilloutmusica.github.io/cm/src/icons/manager.png",
+        "bouncer": "https://chilloutmusica.github.io/cm/src/icons/bouncer.png",
+        "rdj": "https://chilloutmusica.github.io/cm/src/icons/rdj.png",
         "subscriber": null
     },
     "emotes": {

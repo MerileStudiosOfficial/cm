@@ -1,3 +1,15 @@
+#chat-messages .fromID-6213245 .badge-box i,
+#chat-messages .id-6213245 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/6213245.gif);
+    background-size: cover;
+}
+
+#chat-messages .fromID-4088630 .badge-box i,
+#chat-messages .id-4088630 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/4088630.gif);
+    background-size: cover;
+}
+
 #chat-messages .fromID-14091107 .badge-box i,
 #chat-messages .id-14091107 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14091107.png);

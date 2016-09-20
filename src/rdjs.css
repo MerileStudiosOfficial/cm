@@ -65,7 +65,7 @@
 #chat #chat-messages :not(.rsshit).id-3862893 .from:before,
 #chat #chat-messages .fromID-6603548 .from:before,
 #chat #chat-messages :not(.rsshit).id-6603548 .from:before {
-    content: " "url("https://chilloutmusica.github.io/cm/assets/icons/rdj.png") !important;
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/rdj.png") !important;
     top: 3px;
     position: relative;
 }

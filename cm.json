@@ -5,7 +5,7 @@
         "allowAutorespond": true,
         "allowAutowoot": true,
         "allowAutojoin": true,
-        "allowAutograb": false,
+        "allowAutograb": true,
         "allowShowingMehs": false
     },
     "ccc": {

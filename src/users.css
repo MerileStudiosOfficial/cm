@@ -178,6 +178,8 @@
     background-size: cover;
 }
 
+#chat-messages .fromID-5311288 .badge-box i,
+#chat-messages .id-5311288 .badge-box i,
 #chat-messages .fromID-4412452 .badge-box i,
 #chat-messages .id-4412452 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4412452.gif);

@@ -1656,6 +1656,20 @@
     background-size: cover;
 }
 
+#chat .cm:not(.moderation):not(.rsshit).id-3929282 .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_left.png")""url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
+}
+
+#chat #chat-messages .fromID-10587451 .un,
+#chat #chat-messages .id-10587451 .un,
+#chat #chat-messages .fromID-4538423 .un,
+#chat #chat-messages .id-4538423 .un,
+#chat #chat-messages .fromID-3806818 .un,
+#chat #chat-messages .id-3806818 .un {
+    color: #fff!important;
+    text-shadow: 1px 1px 0 #000;
+}
+
 #chat-messages .fromID-10587451 .badge-box i,
 #chat-messages .cm:not(.rsshit).id-10587451 .badge-box i,
 #chat-messages .fromID-4538423 .badge-box i,

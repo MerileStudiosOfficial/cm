@@ -81,12 +81,3 @@
     top: 3px;
     position: relative;
 }
-#chat #chat-messages .fromID-10587451 .un,
-#chat #chat-messages .id-10587451 .un,
-#chat #chat-messages .fromID-4538423 .un,
-#chat #chat-messages .id-4538423 .un,
-#chat #chat-messages .fromID-3806818 .un,
-#chat #chat-messages .id-3806818 .un {
-    color: #fff!important;
-    text-shadow: 1px 1px 0 #000;
-}

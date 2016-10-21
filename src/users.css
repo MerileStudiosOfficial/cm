@@ -1,3 +1,9 @@
+#chat-messages .fromID-3568061 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-3568061 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3568061.gif);
+    background-size: cover;
+}
+
 #chat-messages .fromID-5019150 .badge-box i,
 #chat-messages .cm:not(.rsshit).id-5019150 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5019150.gif);

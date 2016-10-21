@@ -1663,7 +1663,8 @@
 }
 
 #chat .cm:not(.moderation):not(.rsshit).id-3929282 .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_right.png")""url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
+    position: absolute;
 }
 
 #chat #chat-messages .fromID-10587451 .un,

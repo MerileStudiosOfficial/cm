@@ -1,3 +1,9 @@
+#chat-messages .fromID-3893562 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-3893562 .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3893562.png);
+    background-size: cover;
+}
+
 #chat-messages .fromID-3568061 .badge-box i,
 #chat-messages .cm:not(.rsshit).id-3568061 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3568061.gif);
@@ -1690,9 +1696,7 @@
 #chat-messages .fromID-5532163 .badge-box i,
 #chat-messages .cm:not(.rsshit).id-5532163 .badge-box i,
 #chat-messages .fromID-15976460 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-15976460 .badge-box i,
-#chat-messages .fromID-3893562 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3893562 .badge-box i {
+#chat-messages .cm:not(.rsshit).id-15976460 .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/poop.png);
     background-size: cover;
 }

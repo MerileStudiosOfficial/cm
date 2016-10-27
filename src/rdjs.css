@@ -1,4 +1,5 @@
 /* CUSTOM RDJs */
+#chat [data-cid^="4918588-"] .msg .from .un,
 #chat [data-cid^="17217418-"] .msg .from .un,
 #chat [data-cid^="6530408-"] .msg .from .un,
 #chat [data-cid^="16994660-"] .msg .from .un,
@@ -26,6 +27,7 @@
     color: #89BE6C;
 }
 
+[data-cid^="4918588-"] .msg .from .un,
 [data-cid^="17217418-"] .msg .from .un,
 [data-cid^="6530408-"] .msg .from .un,
 [data-cid^="16994660-"] .msg .from .un,

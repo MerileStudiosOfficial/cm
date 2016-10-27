@@ -1,1719 +1,1444 @@
-#chat-messages .fromID-3893562 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3893562 .badge-box i {
+#chat [data-cid^="3725081-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3725081.gif);
+    background-size: cover;
+}
+
+#chat [data-cid^="3963175-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3963175.png);
+    background-size: cover;
+}
+
+#chat [data-cid^="20649525-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/20649525.gif);
+    background-size: cover;
+}
+
+#chat [data-cid^="3893562-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3893562.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3568061 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3568061 .badge-box i {
+#chat [data-cid^="3568061-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3568061.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5019150 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5019150 .badge-box i {
+#chat [data-cid^="5019150-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5019150.gif);
     background-size: cover;
 }
 
-#chat-messages .cm:not(.rsshit).id-5906658 .badge-box i {
+#chat [data-cid^="5906658-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/traitor.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3429496 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3429496 .badge-box i {
+#chat [data-cid^="3429496-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3429496.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3832819 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3832819 .badge-box i {
+#chat [data-cid^="3832819-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3832819.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5752792 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5752792 .badge-box i {
+#chat [data-cid^="5752792-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5752792.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6213245 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6213245 .badge-box i {
+#chat [data-cid^="6213245-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6213245.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4088630 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4088630 .badge-box i {
+#chat [data-cid^="4088630-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4088630.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-14091107 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-14091107 .badge-box i {
+#chat [data-cid^="14091107-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14091107.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4210830 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4210830 .badge-box i {
+#chat [data-cid^="4210830-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4210830.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6530408 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6530408 .badge-box i {
+#chat [data-cid^="6530408-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6530408.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4044631 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4044631 .badge-box i {
+#chat [data-cid^="4044631-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4044631.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5329731 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5329731 .badge-box i {
+#chat [data-cid^="5329731-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5329731.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5175220 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5175220 .badge-box i {
+#chat [data-cid^="5175220-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5175220.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-13347705 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-13347705 .badge-box i {
+#chat [data-cid^="13347705-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/13347705.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-18457841 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-18457841 .badge-box i {
+#chat [data-cid^="18457841-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/18457841.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6307668 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6307668 .badge-box i {
+#chat [data-cid^="6307668-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6307668.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6472224 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6472224 .badge-box i {
+#chat [data-cid^="6472224-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6472224.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3663616 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3663616 .badge-box i {
+#chat [data-cid^="3663616-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3663616.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-15224836 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-15224836 .badge-box i {
+#chat [data-cid^="15224836-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/15224836.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6149856 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6149856 .badge-box i {
+#chat [data-cid^="6149856-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6149856.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5363927 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5363927 .badge-box i {
+#chat [data-cid^="5363927-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5363927.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5476232 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5476232 .badge-box i {
+#chat [data-cid^="5476232-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5476232.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-18107594 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-18107594 .badge-box i {
+#chat [data-cid^="18107594-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/18107594.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3758041 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3758041 .badge-box i {
+#chat [data-cid^="3758041-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3758041.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4890141 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4890141 .badge-box i {
+#chat [data-cid^="4890141-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4890141.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-6366252 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6366252 .badge-box i {
+#chat [data-cid^="6366252-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6366252.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4567745 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4567745 .badge-box i {
+#chat [data-cid^="4567745-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4567745.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4797515 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4797515 .badge-box i {
+#chat [data-cid^="4797515-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4797515.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-12076403 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-12076403 .badge-box i {
+#chat [data-cid^="12076403-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/12076403.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-15319831 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-15319831 .badge-box i {
+#chat [data-cid^="15319831-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/15319831.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5158975 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5158975 .badge-box i {
+#chat [data-cid^="5158975-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5158975.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5616519 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5616519 .badge-box i {
+#chat [data-cid^="5616519-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5616519.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6056325 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6056325 .badge-box i {
+#chat [data-cid^="6056325-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6056325.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5311288 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5311288 .badge-box i,
-#chat-messages .fromID-4412452 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4412452 .badge-box i {
+#chat [data-cid^="5311288-"] .badge-box i,
+#chat [data-cid^="4412452-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4412452.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4330734 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4330734 .badge-box i {
+#chat [data-cid^="4330734-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4330734.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4839178 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4839178 .badge-box i {
+#chat [data-cid^="4839178-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4839178.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4143444 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4143444 .badge-box i {
+#chat [data-cid^="4143444-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4143444.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-16415830 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-16415830 .badge-box i {
+#chat [data-cid^="16415830-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/16415830.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5552495 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5552495 .badge-box i {
+#chat [data-cid^="5552495-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5552495.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-16273927 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-16273927 .badge-box i {
+#chat [data-cid^="16273927-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/16273927.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4124504 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4124504 .badge-box i {
+#chat [data-cid^="4124504-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4124504.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3820182 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3820182 .badge-box i {
+#chat [data-cid^="3820182-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3820182.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4084130 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4084130 .badge-box i {
+#chat [data-cid^="4084130-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4084130.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4345938 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4345938 .badge-box i {
+#chat [data-cid^="4345938-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4345938.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6185536 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6185536 .badge-box i {
+#chat [data-cid^="6185536-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6185536.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-20517622 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-20517622 .badge-box i,
-#chat-messages .fromID-20550086 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-20550086 .badge-box i,
-#chat-messages .fromID-11497558 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-11497558 .badge-box i,
-#chat-messages .fromID-5363217 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5363217 .badge-box i {
+#chat [data-cid^="20517622-"] .badge-box i,
+#chat [data-cid^="20550086-"] .badge-box i,
+#chat [data-cid^="11497558-"] .badge-box i,
+#chat [data-cid^="5363217-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/dance45.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-15413598 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-15413598 .badge-box i {
+#chat [data-cid^="15413598-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/15413598.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-14101040 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-14101040 .badge-box i {
+#chat [data-cid^="14101040-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14101040.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3669014 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3669014 .badge-box i {
+#chat [data-cid^="3669014-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3669014.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4501461 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4501461 .badge-box i {
+#chat [data-cid^="4501461-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4501461.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3503655 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3503655 .badge-box i {
+#chat [data-cid^="3503655-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3503655.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4336782 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4336782 .badge-box i {
+#chat [data-cid^="4336782-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4336782.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6448243 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6448243 .badge-box i {
+#chat [data-cid^="6448243-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6448243.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3857186 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3857186 .badge-box i {
+#chat [data-cid^="3857186-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3857186.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5786782 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5786782 .badge-box i {
+#chat [data-cid^="5786782-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5786782.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4769406 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4769406 .badge-box i {
+#chat [data-cid^="4769406-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4769406.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5017364 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5017364 .badge-box i {
+#chat [data-cid^="5017364-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5017364.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4103934 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4103934 .badge-box i {
+#chat [data-cid^="4103934-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4103934.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5236300 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5236300 .badge-box i {
+#chat [data-cid^="5236300-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5236300.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4305920 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4305920 .badge-box i {
+#chat [data-cid^="4305920-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4305920.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-14431109 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-14431109 .badge-box i {
+#chat [data-cid^="14431109-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14431109.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4328142 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4328142 .badge-box i {
+#chat [data-cid^="4328142-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4328142.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3862893 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3862893 .badge-box i {
+#chat [data-cid^="3862893-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3862893.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-13447599 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-13447599 .badge-box i {
+#chat [data-cid^="13447599-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/13447599.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-8672647 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-8672647 .badge-box i {
+#chat [data-cid^="8672647-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/8672647.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3965987 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3965987 .badge-box i {
+#chat [data-cid^="3965987-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3965987.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4106134 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4106134 .badge-box i {
+#chat [data-cid^="4106134-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4106134.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-13428187 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-13428187 .badge-box i {
+#chat [data-cid^="13428187-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/13428187.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3540688 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3540688 .badge-box i {
+#chat [data-cid^="3540688-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3540688.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4681163 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4681163 .badge-box i {
+#chat [data-cid^="4681163-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4681163.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5156051 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5156051 .badge-box i {
+#chat [data-cid^="5156051-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5156051.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5225617 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5225617 .badge-box i {
+#chat [data-cid^="5225617-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5225617.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-14499516 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-14499516 .badge-box i {
+#chat [data-cid^="14499516-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14499516.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-14696837 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-14696837 .badge-box i {
+#chat [data-cid^="14696837-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/14696837.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-11340410 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-11340410 .badge-box i {
+#chat [data-cid^="11340410-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/11340410.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5869210 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5869210 .badge-box i {
+#chat [data-cid^="5869210-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5869210.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5052094 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5052094 .badge-box i {
+#chat [data-cid^="5052094-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5052094.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3763111 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3763111 .badge-box i {
+#chat [data-cid^="3763111-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3763111.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-9982311 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-9982311 .badge-box i {
+#chat [data-cid^="9982311-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/9982311.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3886235 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3886235 .badge-box i {
+#chat [data-cid^="3886235-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3886235.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3472800 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3472800 .badge-box i {
+#chat [data-cid^="3472800-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3472800.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3961888 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3961888 .badge-box i {
+#chat [data-cid^="3961888-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3961888.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-12482051 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-12482051 .badge-box i {
+#chat [data-cid^="12482051-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/12482051.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4376124 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4376124 .badge-box i {
+#chat [data-cid^="4376124-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4376124.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4915583 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4915583 .badge-box i {
+#chat [data-cid^="4915583-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4915583.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6619523 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6619523 .badge-box i {
+#chat [data-cid^="6619523-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6619523.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5673259 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5673259 .badge-box i {
+#chat [data-cid^="5673259-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5673259.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6669290 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6669290 .badge-box i {
+#chat [data-cid^="6669290-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6669290.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3796520 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3796520 .badge-box i {
+#chat [data-cid^="3796520-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3796520.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4110867 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4110867 .badge-box i {
+#chat [data-cid^="4110867-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4110867.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4923532 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4923532 .badge-box i {
+#chat [data-cid^="4923532-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4923532.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5302780 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5302780 .badge-box i {
+#chat [data-cid^="5302780-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5302780.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-8642914 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-8642914 .badge-box i {
+#chat [data-cid^="8642914-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/8642914.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6154457 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6154457 .badge-box i {
+#chat [data-cid^="6154457-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6154457.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-1326827 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-1326827 .badge-box i {
+#chat [data-cid^="1326827-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/1326827.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-6453428 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6453428 .badge-box i {
+#chat [data-cid^="6453428-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6453428.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6615763 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6615763 .badge-box i {
+#chat [data-cid^="6615763-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6615763.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-8091970 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-8091970 .badge-box i {
+#chat [data-cid^="8091970-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/8091970.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4123271 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4123271 .badge-box i {
+#chat [data-cid^="4123271-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4123271.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3292657 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3292657 .badge-box i {
+#chat [data-cid^="3292657-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3292657.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4175902 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4175902 .badge-box i {
+#chat [data-cid^="4175902-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4175902.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3628288 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3628288 .badge-box i {
+#chat [data-cid^="3628288-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3628288.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6608098 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6608098 .badge-box i {
+#chat [data-cid^="6608098-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6608098.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-8964712 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-8964712 .badge-box i {
+#chat [data-cid^="8964712-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/8964712.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3525043 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3525043 .badge-box i {
+#chat [data-cid^="3525043-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3525043.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3533136 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3533136 .badge-box i {
+#chat [data-cid^="3533136-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3533136.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3479627 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3479627 .badge-box i {
+#chat [data-cid^="3479627-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3479627.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3712531 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3712531 .badge-box i {
+#chat [data-cid^="3712531-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3712531.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6725528 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6725528 .badge-box i {
+#chat [data-cid^="6725528-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6725528.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-8138590 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-8138590 .badge-box i {
+#chat [data-cid^="8138590-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/8138590.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5799988 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5799988 .badge-box i {
+#chat [data-cid^="5799988-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5799988.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4621313 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4621313 .badge-box i {
+#chat [data-cid^="4621313-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4621313.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4463726 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4463726 .badge-box i {
+#chat [data-cid^="4463726-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4463726.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-7670001 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-7670001 .badge-box i {
+#chat [data-cid^="7670001-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/7670001.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4115125 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4115125 .badge-box i {
+#chat [data-cid^="4115125-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4115125.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5767548 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5767548 .badge-box i {
+#chat [data-cid^="5767548-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5767548.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6691756 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6691756 .badge-box i {
+#chat [data-cid^="6691756-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6691756.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6591830 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6591830 .badge-box i {
+#chat [data-cid^="6591830-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6591830.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4652868 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4652868 .badge-box i {
+#chat [data-cid^="4652868-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4652868.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4058801 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4058801 .badge-box i {
+#chat [data-cid^="4058801-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4058801.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6445687 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6445687 .badge-box i {
+#chat [data-cid^="6445687-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6445687.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5271606 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5271606 .badge-box i {
+#chat [data-cid^="5271606-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5271606.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5497074 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5497074 .badge-box i {
+#chat [data-cid^="5497074-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5497074.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6614847 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6614847 .badge-box i {
+#chat [data-cid^="6614847-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6614847.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6717962 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6717962 .badge-box i {
+#chat [data-cid^="6717962-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6717962.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5847875 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5847875 .badge-box i {
+#chat [data-cid^="5847875-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5847875.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5379514 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5379514 .badge-box i {
+#chat [data-cid^="5379514-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5379514.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-1325306 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-1325306 .badge-box i {
+#chat [data-cid^="1325306-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/1325306.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6194313 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6194313 .badge-box i {
+#chat [data-cid^="6194313-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6194313.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3489015 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3489015 .badge-box i {
+#chat [data-cid^="3489015-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3489015.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4457882 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4457882 .badge-box i {
+#chat [data-cid^="4457882-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4457882.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4368064 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4368064 .badge-box i {
+#chat [data-cid^="4368064-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Police.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3929282 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3929282 .badge-box i {
+#chat [data-cid^="3929282-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Molly.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3833117 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3833117 .badge-box i {
+#chat [data-cid^="3833117-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3833117.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4520681 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4520681 .badge-box i {
+#chat [data-cid^="4520681-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Kitty.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3627728 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3627728 .badge-box i {
+#chat [data-cid^="3627728-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Froo.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4868332 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4868332 .badge-box i {
+#chat [data-cid^="4868332-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Aber.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4380925 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4380925 .badge-box i {
+#chat [data-cid^="4380925-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Oshen.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4295782 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4295782 .badge-box i {
+#chat [data-cid^="4295782-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Dr.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3708674 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3708674 .badge-box i {
+#chat [data-cid^="3708674-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Pale.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4774307 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4774307 .badge-box i {
+#chat [data-cid^="4774307-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Dawg.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5014744 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5014744 .badge-box i {
+#chat [data-cid^="5014744-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Uncle.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5802319 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5802319 .badge-box i {
+#chat [data-cid^="5802319-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/www.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5795960 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5795960 .badge-box i {
+#chat [data-cid^="5795960-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Meat.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5856472 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5856472 .badge-box i {
+#chat [data-cid^="5856472-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/nymira.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4123599 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4123599 .badge-box i {
+#chat [data-cid^="4123599-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Gravel.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3994467 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3994467 .badge-box i {
+#chat [data-cid^="3994467-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Mar.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5581119 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5581119 .badge-box i {
+#chat [data-cid^="5581119-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/drowna.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4702259 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4702259 .badge-box i {
+#chat [data-cid^="4702259-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4702259.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3960320 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3960320 .badge-box i {
+#chat [data-cid^="3960320-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Niobi.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5187399 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5187399 .badge-box i {
+#chat [data-cid^="5187399-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Mawu.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3868457 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3868457 .badge-box i {
+#chat [data-cid^="3868457-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Alaclis.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4425035 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4425035 .badge-box i {
+#chat [data-cid^="4425035-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/African.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4003644 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4003644 .badge-box i {
+#chat [data-cid^="4003644-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4003644.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3778647 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3778647 .badge-box i {
+#chat [data-cid^="3778647-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Duke.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4448479 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4448479 .badge-box i {
+#chat [data-cid^="4448479-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Z.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4089177 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4089177 .badge-box i {
+#chat [data-cid^="4089177-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Extasis.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5280962 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5280962 .badge-box i {
+#chat [data-cid^="5280962-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/menzx.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4929829 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4929829 .badge-box i {
+#chat [data-cid^="4929829-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/ocean.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4122762 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4122762 .badge-box i {
+#chat [data-cid^="4122762-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/desko.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4144312 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4144312 .badge-box i {
+#chat [data-cid^="4144312-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/faceofflynn.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5245411 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5245411 .badge-box i {
+#chat [data-cid^="5245411-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Gyre.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3996856 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3996856 .badge-box i {
+#chat [data-cid^="3996856-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Kode.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3767595 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3767595 .badge-box i {
+#chat [data-cid^="3767595-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Obzerv.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3687347 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3687347 .badge-box i {
+#chat [data-cid^="3687347-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/carlid.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5890172 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5890172 .badge-box i {
+#chat [data-cid^="5890172-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/jayna.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3612578 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3612578 .badge-box i {
+#chat [data-cid^="3612578-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Makrosz.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4306569 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4306569 .badge-box i {
+#chat [data-cid^="4306569-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Lugger.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4328123 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4328123 .badge-box i {
+#chat [data-cid^="4328123-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/chillwave.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4553320 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4553320 .badge-box i {
+#chat [data-cid^="4553320-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/dregg.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5748918 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5748918 .badge-box i {
+#chat [data-cid^="5748918-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/GrMo.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4356346 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4356346 .badge-box i {
+#chat [data-cid^="4356346-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/notion.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5406353 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5406353 .badge-box i {
+#chat [data-cid^="5406353-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Egzuht.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4352830 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4352830 .badge-box i {
+#chat [data-cid^="4352830-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Ninguex.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5005391 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5005391 .badge-box i {
+#chat [data-cid^="5005391-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5005391.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3659236 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3659236 .badge-box i {
+#chat [data-cid^="3659236-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/NARALITH.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5640278 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5640278 .badge-box i {
+#chat [data-cid^="5640278-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Ethaos.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3423656 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3423656 .badge-box i {
+#chat [data-cid^="3423656-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Zero7CO.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5636068 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5636068 .badge-box i {
+#chat [data-cid^="5636068-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/chilloutmusic.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5017779 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5017779 .badge-box i {
+#chat [data-cid^="5017779-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/ode.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5329023 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5329023 .badge-box i {
+#chat [data-cid^="5329023-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/jbear.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5339128 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5339128 .badge-box i {
+#chat [data-cid^="5339128-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/DerWonMusics.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5635272 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5635272 .badge-box i {
+#chat [data-cid^="5635272-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/auzz.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5951478 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5951478 .badge-box i {
+#chat [data-cid^="5951478-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/chilltree.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4678056 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4678056 .badge-box i {
+#chat [data-cid^="4678056-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/kickass.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4404477 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4404477 .badge-box i {
+#chat [data-cid^="4404477-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4404477.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3255198 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3255198 .badge-box i {
+#chat [data-cid^="3255198-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3255198.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4521156 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4521156 .badge-box i {
+#chat [data-cid^="4521156-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/chief.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3987156 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3987156 .badge-box i {
+#chat [data-cid^="3987156-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Ghostdive.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3929949 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3929949 .badge-box i {
+#chat [data-cid^="3929949-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Enceladus.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3741006 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3741006 .badge-box i {
+#chat [data-cid^="3741006-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/datfood.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4706897 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4706897 .badge-box i {
+#chat [data-cid^="4706897-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/bananapie.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5661329 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5661329 .badge-box i {
+#chat [data-cid^="5661329-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/RippedPants.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3584016 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3584016 .badge-box i {
+#chat [data-cid^="3584016-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3584016.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3767036 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3767036 .badge-box i {
+#chat [data-cid^="3767036-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Fredbit.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5989466 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5989466 .badge-box i {
+#chat [data-cid^="5989466-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/outwest.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3693770 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3693770 .badge-box i {
+#chat [data-cid^="3693770-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/braincomb.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5877038 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5877038 .badge-box i {
+#chat [data-cid^="5877038-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4Ice.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4706897 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4706897 .badge-box i {
+#chat [data-cid^="4706897-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4706897.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5924731 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5924731 .badge-box i {
+#chat [data-cid^="5924731-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Tensik.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5352586 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5352586 .badge-box i {
+#chat [data-cid^="5352586-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/1enigmatc.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4880270 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4880270 .badge-box i {
+#chat [data-cid^="4880270-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Fastoche.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3992653 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3992653 .badge-box i {
+#chat [data-cid^="3992653-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/fretless.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3800051 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3800051 .badge-box i {
+#chat [data-cid^="3800051-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/lars.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3749154 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3749154 .badge-box i {
+#chat [data-cid^="3749154-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Pantalons-a-croquer.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5636068 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5636068 .badge-box i {
+#chat [data-cid^="5636068-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/ChilloutMusic.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5196822 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5196822 .badge-box i {
+#chat [data-cid^="5196822-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Crackerz.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3960096 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3960096 .badge-box i {
+#chat [data-cid^="3960096-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Nantes.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5412440 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5412440 .badge-box i {
+#chat [data-cid^="5412440-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5412440.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6059492 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6059492 .badge-box i {
+#chat [data-cid^="6059492-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6059492.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5968030 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5968030 .badge-box i {
+#chat [data-cid^="5968030-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5968030.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6134030 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6134030 .badge-box i {
+#chat [data-cid^="6134030-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/BuckFabylon.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5611115 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5611115 .badge-box i {
+#chat [data-cid^="5611115-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/cat.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3552031 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3552031 .badge-box i {
+#chat [data-cid^="3552031-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/sjay34.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5533161 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5533161 .badge-box i {
+#chat [data-cid^="5533161-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/child.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5698509 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5698509 .badge-box i {
+#chat [data-cid^="5698509-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/wie2.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4063961 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4063961 .badge-box i {
+#chat [data-cid^="4063961-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/ChilloutDreamer.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4081738 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4081738 .badge-box i {
+#chat [data-cid^="4081738-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/cube.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4921869 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4921869 .badge-box i {
+#chat [data-cid^="4921869-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/king.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4130366 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4130366 .badge-box i {
+#chat [data-cid^="4130366-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Sovex66.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-4883942 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4883942 .badge-box i {
+#chat [data-cid^="4883942-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Vicion.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5901239 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5901239 .badge-box i {
+#chat [data-cid^="5901239-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/b1.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3475299 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3475299 .badge-box i {
+#chat [data-cid^="3475299-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/mad.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3638662 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3638662 .badge-box i {
+#chat [data-cid^="3638662-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Synaesthetik.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3650406 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3650406 .badge-box i {
+#chat [data-cid^="3650406-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/gobbo.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6043139 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6043139 .badge-box i {
+#chat [data-cid^="6043139-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Advntr.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6438937 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6438937 .badge-box i {
+#chat [data-cid^="6438937-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/mtmdubstep.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3832300 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3832300 .badge-box i {
+#chat [data-cid^="3832300-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Notturno.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6450808 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6450808 .badge-box i {
+#chat [data-cid^="6450808-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/lukellyk.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4343261 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4343261 .badge-box i {
+#chat [data-cid^="4343261-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/CordiBeats.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3745645 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3745645 .badge-box i {
+#chat [data-cid^="3745645-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3745645.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3541405 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3541405 .badge-box i {
+#chat [data-cid^="3541405-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3541405.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4036825 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4036825 .badge-box i {
+#chat [data-cid^="4036825-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4036825.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6322480 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6322480 .badge-box i {
+#chat [data-cid^="6322480-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/DrKirby.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-9730699 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-9730699 .badge-box i {
+#chat [data-cid^="9730699-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/9730699.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5824512 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5824512 .badge-box i {
+#chat [data-cid^="5824512-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5824512.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3745645 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3745645 .badge-box i {
+#chat [data-cid^="3745645-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3745645.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6043201 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6043201 .badge-box i {
+#chat [data-cid^="6043201-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Gingerbeard.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6430566 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6430566 .badge-box i {
+#chat [data-cid^="6430566-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/xChillstepx.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6191575 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6191575 .badge-box i {
+#chat [data-cid^="6191575-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/korqie.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3864151 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3864151 .badge-box i {
+#chat [data-cid^="3864151-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3864151.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6601193 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6601193 .badge-box i {
+#chat [data-cid^="6601193-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6601193.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5823241 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5823241 .badge-box i {
+#chat [data-cid^="5823241-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/stray.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4486929 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4486929 .badge-box i {
+#chat [data-cid^="4486929-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4486929.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-3580689 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3580689 .badge-box i {
+#chat [data-cid^="3580689-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/costco.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-4024202 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4024202 .badge-box i {
+#chat [data-cid^="4024202-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/girl.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-3634962 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3634962 .badge-box i {
+#chat [data-cid^="3634962-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/cake.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3623535 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3623535 .badge-box i {
+#chat [data-cid^="3623535-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3623535.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4371183 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4371183 .badge-box i {
+#chat [data-cid^="4371183-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4371183.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5903745 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5903745 .badge-box i {
+#chat [data-cid^="5903745-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5903745.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5612104 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5612104 .badge-box i {
+#chat [data-cid^="5612104-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5612104.png)!important;
     /*background-image: url(https://chilloutmusica.github.io/cm/src/badges/Exuviax.gif)!important;*/
     background-size: cover;
 }
 
-#chat-messages .fromID-6717962 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6717962 .badge-box i {
+#chat [data-cid^="6717962-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6717962.gif);
     background-size: cover;
 }
 
-#chat-messages .cm:not(.rsshit).ifromID10242712 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-10242712 .badge-box i {
+#chat [data-cid^="10242712-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/10242712.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5281759 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5281759 .badge-box i {
+#chat [data-cid^="5281759-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5281759.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6060631 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6060631 .badge-box i {
+#chat [data-cid^="6060631-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/jack.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6534022 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6534022 .badge-box i {
+#chat [data-cid^="6534022-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6534022.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6409895 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6409895 .badge-box i {
+#chat [data-cid^="6409895-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/swiss.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6619845 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6619845 .badge-box i {
+#chat [data-cid^="6619845-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6619845.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6370105 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6370105 .badge-box i {
+#chat [data-cid^="6370105-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Stasmac.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5284420 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5284420 .badge-box i {
+#chat [data-cid^="5284420-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5284420.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6189564 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6189564 .badge-box i {
+#chat [data-cid^="6189564-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/DrRocket.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5158507 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5158507 .badge-box i {
+#chat [data-cid^="5158507-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/GYVUS.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-6712174 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6712174 .badge-box i {
+#chat [data-cid^="6712174-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6712174.jpg);
     background-size: cover;
 }
 
-#chat-messages .fromID-5091643 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5091643 .badge-box i {
+#chat [data-cid^="5091643-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/RBM.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-6193440 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6193440 .badge-box i {
+#chat [data-cid^="6193440-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6193440.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5425875 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5425875 .badge-box i {
+#chat [data-cid^="5425875-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Pussy.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5162920 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5162920 .badge-box i {
+#chat [data-cid^="5162920-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Tomato.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5769847 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5769847 .badge-box i {
+#chat [data-cid^="5769847-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/Axle.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3632408 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3632408 .badge-box i {
+#chat [data-cid^="3632408-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/ibvlpvy.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3538311 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3538311 .badge-box i {
+#chat [data-cid^="3538311-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/0UzMkME.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5501175 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5501175 .badge-box i {
+#chat [data-cid^="5501175-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/52RkPxR.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6100517 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6100517 .badge-box i {
+#chat [data-cid^="6100517-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/lnzpfwg.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-3798150 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3798150 .badge-box i {
+#chat [data-cid^="3798150-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3798150.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-6109688 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-6109688 .badge-box i {
+#chat [data-cid^="6109688-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3I2K2m2.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-4774047 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4774047 .badge-box i {
+#chat [data-cid^="4774047-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/4774047.gif);
     background-size: cover;
 }
 
-#chat .cm:not(.moderation):not(.rsshit).id-3929282 .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
-    position: absolute;
-}
-
-#chat #chat-messages .fromID-10587451 .un,
-#chat #chat-messages .id-10587451 .un,
-#chat #chat-messages .fromID-4538423 .un,
-#chat #chat-messages .id-4538423 .un,
-#chat #chat-messages .fromID-3806818 .un,
-#chat #chat-messages .id-3806818 .un {
-    color: #fff!important;
-    text-shadow: 1px 1px 0 #000;
-}
-
-#chat-messages .fromID-10587451 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-10587451 .badge-box i,
-#chat-messages .fromID-4538423 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4538423 .badge-box i,
-#chat-messages .fromID-3806818 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-3806818 .badge-box i {
+#chat [data-cid^="10587451-"] .badge-box i,
+#chat [data-cid^="4538423-"] .badge-box i,
+#chat [data-cid^="3806818-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/rareparrot.gif);
     background-size: cover;
 }
 
-#chat-messages .fromID-5532163 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5532163 .badge-box i,
-#chat-messages .fromID-15976460 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-15976460 .badge-box i {
+#chat [data-cid^="5532163-"] .badge-box i,
+#chat [data-cid^="15976460-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/poop.png);
     background-size: cover;
 }
 
-#chat-messages .fromID-5010887 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5010887 .badge-box i,
-#chat-messages .fromID-5975194 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-5975194 .badge-box i {
+#chat [data-cid^="5010887-"] .badge-box i,
+#chat [data-cid^="5975194-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/roomba.gif);
     background-size: cover;
 }
 
-#chat-messages div:not(.moderation):not(.rsshit) .badge-box i:not(.icon-plugcubed) {
+#chat-messages div:not(.moderation):not(.rsshit):not(.user-action) .badge-box i:not(.icon-plugcubed) {
     width: 30px;
     height: 30px;
     top: 0;
     left: 0;
     border: none;
     border-radius: 0;
+}
+
+#chat [data-cid^="3929282-"] .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
+    position: absolute;
+}
+
+#chat [data-cid^="10587451-"] .from .un,
+#chat [data-cid^="4538423-"] .from .un,
+#chat [data-cid^="3806819-"] .from .un {
+    color: #fff!important;
+    text-shadow: 1px 1px 0 #000;
 }

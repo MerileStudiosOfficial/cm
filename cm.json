@@ -22,7 +22,7 @@
         "user": null
     },
     "images": {
-        "background": "https://chilloutmusica.github.io/cm/src/images/CM_BG12.jpg",
+        "background": "https://chilloutmusica.github.io/cm/src/images/CM_BG12_1.jpg",
         "playback": "https://chilloutmusica.github.io/cm/src/images/playback.png",
         "admin": null,
         "ambassador": null,
@@ -40,9 +40,5 @@
         "ldcyellow": "https://chilloutmusica.github.io/cm/src/emotes/ldcyellow.gif",
         "ldcpurple": "https://chilloutmusica.github.io/cm/src/emotes/ldcpurple.gif",
         "bugdj": "https://chilloutmusica.github.io/cm/src/emotes/bugdj.png"
-    },
-    "autocomplete": {
-        "": null
-
     }
 }

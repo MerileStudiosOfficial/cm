@@ -1,3 +1,13 @@
+#chat [data-cid^="20793866-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/20793866.gif);
+    background-size: cover;
+}
+
+#chat [data-cid^="13447025-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/13447025.gif);
+    background-size: cover;
+}
+
 #chat [data-cid^="6009324-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/6009324.png);
     background-size: cover;
@@ -254,6 +264,8 @@
     background-size: cover;
 }
 
+#chat [data-cid^="16242270-"] .badge-box i,
+#chat [data-cid^="6665539-"] .badge-box i,
 #chat [data-cid^="20517622-"] .badge-box i,
 #chat [data-cid^="20550086-"] .badge-box i,
 #chat [data-cid^="11497558-"] .badge-box i,

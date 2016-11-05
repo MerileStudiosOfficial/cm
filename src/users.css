@@ -1463,10 +1463,6 @@
     position: absolute;
 }
 
-#chat [data-cid^="3583919-"] .from .un {
-    color: #0191ff!important;
-}
-
 #chat [data-cid^="10587451-"] .from .un,
 #chat [data-cid^="4538423-"] .from .un,
 #chat [data-cid^="3806819-"] .from .un {

@@ -625,7 +625,7 @@
 }
 
 #chat [data-cid^="6691756-"] .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/kim-k-head.gif);
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/6691756.gif);
     background-size: cover;
 }
 
@@ -1456,6 +1456,15 @@
 #chat [data-cid^="6608098-"] .from .un.clickable:after {
     content: " "url("https://chilloutmusica.github.io/cm/src/icons/cherries.png");
     position: absolute;
+}
+
+#chat [data-cid^="6691756-"] .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/fish.png");
+    position: absolute;
+}
+
+#chat [data-cid^="3583919-"] .from .un {
+    color: #0191ff!important;
 }
 
 #chat [data-cid^="10587451-"] .from .un,

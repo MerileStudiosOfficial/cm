@@ -1463,18 +1463,23 @@
     border-radius: 0;
 }
 
-#chat [data-cid^="3929282-"] .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
-    position: absolute;
-}
-
-#chat [data-cid^="6608098-"] .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/cherries.png");
+#chat [data-cid^="3712531-"] .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/feelsbadman.png");
     position: absolute;
 }
 
 #chat [data-cid^="6691756-"] .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/fish.png");
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/fish.png");
+    position: absolute;
+}
+
+#chat [data-cid^="6608098-"] .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/cherries.png");
+    position: absolute;
+}
+
+#chat [data-cid^="3929282-"] .from .un.clickable:after {
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
     position: absolute;
 }
 

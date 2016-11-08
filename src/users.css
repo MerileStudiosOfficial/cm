@@ -1,3 +1,14 @@
+/* Custom badges */
+#chat [data-cid^="5794777-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/5794777.png);
+    background-size: cover;
+}
+
+#chat [data-cid^="3534808-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3534808.png);
+    background-size: cover;
+}
+
 #chat [data-cid^="3995244-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3995244.gif);
     background-size: cover;
@@ -1463,6 +1474,7 @@
     border-radius: 0;
 }
 
+/* Custom icons */
 #chat [data-cid^="3712531-"] .from .un.clickable:after {
     content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/feelsbadman.png");
     position: absolute;
@@ -1483,6 +1495,7 @@
     position: absolute;
 }
 
+/* Custom colors */
 #chat [data-cid^="10587451-"] .from .un,
 #chat [data-cid^="4538423-"] .from .un,
 #chat [data-cid^="3806819-"] .from .un {

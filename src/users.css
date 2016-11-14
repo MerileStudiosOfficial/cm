@@ -1,4 +1,19 @@
 /* Custom badges */
+#chat [data-cid^="11701947-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/11701947.png);
+    background-size: cover;
+}
+
+#chat [data-cid^="5526087-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/5526087.png);
+    background-size: cover;
+}
+
+#chat [data-cid^="17483204-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/17483204.png);
+    background-size: cover;
+}
+
 #chat [data-cid^="5006699-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/5006699.png);
     background-size: cover;

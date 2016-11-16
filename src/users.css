@@ -1,4 +1,9 @@
 /* Custom badges */
+#chat [data-cid^="3859108-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/3859108.png);
+    background-size: cover;
+}
+
 #chat [data-cid^="11701947-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/11701947.png);
     background-size: cover;

@@ -1521,7 +1521,7 @@
 }
 
 #chat [data-cid^="3929282-"] .from .un.clickable:after {
-    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/ok_hand.png");
+    content: " "url("https://chilloutmusica.github.io/cm/src/icons/custom/point_right.png")url("https://chilloutmusica.github.io/cm/src/icons/custom/ok_hand.png");
     position: absolute;
 }
 

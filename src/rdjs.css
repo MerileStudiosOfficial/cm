@@ -1,4 +1,33 @@
 /* CUSTOM RDJs */
+
+/* Chat */
+#chat .cm.id-3874365 .from .un,
+#chat .cm.id-4918588 .from .un,
+#chat .cm.id-17217418 .from .un,
+#chat .cm.id-6530408 .from .un,
+#chat .cm.id-16994660 .from .un,
+#chat .cm.id-14918489 .from .un,
+#chat .cm.id-3468097 .from .un,
+#chat .cm.id-4236313 .from .un,
+#chat .cm.id-20051790 .from .un,
+#chat .cm.id-5281759 .from .un,
+#chat .cm.id-9303556 .from .un,
+#chat .cm.id-16715150 .from .un,
+#chat .cm.id-17779590 .from .un,
+#chat .cm.id-4024813 .from .un,
+#chat .cm.id-17618298 .from .un,
+#chat .cm.id-4774047 .from .un,
+#chat .cm.id-4627982 .from .un,
+#chat .cm.id-5005391 .from .un,
+#chat .cm.id-5462424 .from .un,
+#chat .cm.id-4036825 .from .un,
+#chat .cm.id-3424522 .from .un,
+#chat .cm.id-15260416 .from .un,
+#chat .cm.id-14935155 .from .un,
+#chat .cm.id-4866227 .from .un,
+#chat .cm.id-3862893 .from .un,
+#chat .cm.id-6603548 .from .un,
+
 #chat [data-cid^="3874365-"] .msg .from .un,
 #chat [data-cid^="4918588-"] .msg .from .un,
 #chat [data-cid^="17217418-"] .msg .from .un,
@@ -61,4 +90,67 @@
     position: relative;
     left:-3px;
     padding-left: 15px;
+}
+
+/* User list */
+#user-lists .list .user.id-3874365:not(.is-staff) .name:before,
+#user-lists .list .user.id-4918588:not(.is-staff) .name:before,
+#user-lists .list .user.id-17217418:not(.is-staff) .name:before,
+#user-lists .list .user.id-6530408:not(.is-staff) .name:before,
+#user-lists .list .user.id-16994660:not(.is-staff) .name:before,
+#user-lists .list .user.id-14918489:not(.is-staff) .name:before,
+#user-lists .list .user.id-3468097:not(.is-staff) .name:before,
+#user-lists .list .user.id-4236313:not(.is-staff) .name:before,
+#user-lists .list .user.id-20051790:not(.is-staff) .name:before,
+#user-lists .list .user.id-5281759:not(.is-staff) .name:before,
+#user-lists .list .user.id-9303556:not(.is-staff) .name:before,
+#user-lists .list .user.id-16715150:not(.is-staff) .name:before,
+#user-lists .list .user.id-17779590:not(.is-staff) .name:before,
+#user-lists .list .user.id-4024813:not(.is-staff) .name:before,
+#user-lists .list .user.id-17618298:not(.is-staff) .name:before,
+#user-lists .list .user.id-4774047:not(.is-staff) .name:before,
+#user-lists .list .user.id-4627982:not(.is-staff) .name:before,
+#user-lists .list .user.id-5005391:not(.is-staff) .name:before,
+#user-lists .list .user.id-5462424:not(.is-staff) .name:before,
+#user-lists .list .user.id-4036825:not(.is-staff) .name:before,
+#user-lists .list .user.id-3424522:not(.is-staff) .name:before,
+#user-lists .list .user.id-15260416:not(.is-staff) .name:before,
+#user-lists .list .user.id-14935155:not(.is-staff) .name:before,
+#user-lists .list .user.id-4866227:not(.is-staff) .name:before,
+#user-lists .list .user.id-3862893:not(.is-staff) .name:before,
+#user-lists .list .user.id-6603548:not(.is-staff) .name:before {
+    content: url("https://chilloutmusica.github.io/cm/src/icons/rdj.png")"  " !important;
+    top: 3px;
+    left: -3px;
+    position: relative;
+}
+
+#user-lists .list .user.id-3874365:not(.is-staff) .name,
+#user-lists .list .user.id-4918588:not(.is-staff) .name,
+#user-lists .list .user.id-17217418:not(.is-staff) .name,
+#user-lists .list .user.id-6530408:not(.is-staff) .name,
+#user-lists .list .user.id-16994660:not(.is-staff) .name,
+#user-lists .list .user.id-14918489:not(.is-staff) .name,
+#user-lists .list .user.id-3468097:not(.is-staff) .name,
+#user-lists .list .user.id-4236313:not(.is-staff) .name,
+#user-lists .list .user.id-20051790:not(.is-staff) .name,
+#user-lists .list .user.id-5281759:not(.is-staff) .name,
+#user-lists .list .user.id-9303556:not(.is-staff) .name,
+#user-lists .list .user.id-16715150:not(.is-staff) .name,
+#user-lists .list .user.id-17779590:not(.is-staff) .name,
+#user-lists .list .user.id-4024813:not(.is-staff) .name,
+#user-lists .list .user.id-17618298:not(.is-staff) .name,
+#user-lists .list .user.id-4774047:not(.is-staff) .name,
+#user-lists .list .user.id-4627982:not(.is-staff) .name,
+#user-lists .list .user.id-5005391:not(.is-staff) .name,
+#user-lists .list .user.id-5462424:not(.is-staff) .name,
+#user-lists .list .user.id-4036825:not(.is-staff) .name,
+#user-lists .list .user.id-3424522:not(.is-staff) .name,
+#user-lists .list .user.id-15260416:not(.is-staff) .name,
+#user-lists .list .user.id-14935155:not(.is-staff) .name,
+#user-lists .list .user.id-4866227:not(.is-staff) .name,
+#user-lists .list .user.id-3862893:not(.is-staff) .name,
+#user-lists .list .user.id-6603548:not(.is-staff) .name {
+    left: 15px;
+    color: #89BE6C;
 }

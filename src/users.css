@@ -1,4 +1,9 @@
 /* Custom badges */
+#chat [data-cid^="6357681-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/6357681.gif);
+    background-size: cover;
+}
+
 #chat [data-cid^="19552668-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/19552668.png);
     background-size: cover;
@@ -337,11 +342,16 @@
 
 #chat [data-cid^="16242270-"] .badge-box i,
 #chat [data-cid^="6665539-"] .badge-box i,
+#chat [data-cid^="11497558-"] .badge-box i {
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/wigga.png);
+    background-size: cover;
+}
+
 #chat [data-cid^="20517622-"] .badge-box i,
 #chat [data-cid^="20550086-"] .badge-box i,
-#chat [data-cid^="11497558-"] .badge-box i,
+#chat [data-cid^="13447599-"] .badge-box i,
 #chat [data-cid^="5363217-"] .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/dance45.gif);
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/wigga.png);
     background-size: cover;
 }
 
@@ -427,11 +437,6 @@
 
 #chat [data-cid^="3862893-"] .badge-box i {
     background-image: url(https://chilloutmusica.github.io/cm/src/badges/3862893.png);
-    background-size: cover;
-}
-
-#chat [data-cid^="13447599-"] .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/13447599.gif);
     background-size: cover;
 }
 
@@ -1467,7 +1472,7 @@
 }
 
 #chat [data-cid^="5501175-"] .badge-box i {
-    background-image: url(https://chilloutmusica.github.io/cm/src/badges/52RkPxR.gif);
+    background-image: url(https://chilloutmusica.github.io/cm/src/badges/dance45.gif);
     background-size: cover;
 }
 

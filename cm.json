@@ -39,7 +39,8 @@
         "ldcblue": "https://chilloutmusica.github.io/cm/src/emotes/ldcblue.gif",
         "ldcyellow": "https://chilloutmusica.github.io/cm/src/emotes/ldcyellow.gif",
         "ldcpurple": "https://chilloutmusica.github.io/cm/src/emotes/ldcpurple.gif",
-        "bugdj": "https://chilloutmusica.github.io/cm/src/emotes/bugdj.png"
+        "bugdj": "https://chilloutmusica.github.io/cm/src/emotes/bugdj.png",
+        "jeff": "https://chilloutmusica.github.io/cm/src/emotes/jeff.png"
     },
     "autocomplete": {
         "!testing": 6

@@ -52,7 +52,7 @@
 #chat [data-cid^="4866227-"] .msg .from .un,
 #chat [data-cid^="3862893-"] .msg .from .un,
 #chat [data-cid^="6603548-"] .msg .from .un {
-    color: #89BE6C;
+    color: #42B590;
 }
 
 [data-cid^="3874365-"] .msg .from .un,
@@ -147,5 +147,5 @@
 #user-lists .list .user.id-3862893:not(.is-staff) .name,
 #user-lists .list .user.id-6603548:not(.is-staff) .name {
     left: 15px;
-    color: #89BE6C;
+    color: #42B590;
 }
